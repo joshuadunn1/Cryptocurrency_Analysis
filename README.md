@@ -1,4 +1,4 @@
-# Cryptocurrency_Analysis
+# Cryptocurrency_Volatility_Analysis
 Analysing volatility of the largest cryptocurrency against a stable coin
 
 To add: Does the cryptocurrencies corrolate with asx nasdac and dxy
